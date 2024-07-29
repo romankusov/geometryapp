@@ -29,17 +29,17 @@
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>geometrylib</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>threedimensionalshapes</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.example</groupId>
             <artifactId>geometryutils</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
     </dependencies>
 

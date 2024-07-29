@@ -1,8 +1,5 @@
 package org.example;
 
-import org.geometry.Cube;
-import org.geometry.Sphere;
-
 public class Main {
     public static void main(String[] args) {
         Circle circle = new Circle(5);
